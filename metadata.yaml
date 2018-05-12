@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5355'
     url: http://www.gutenberg.org/2009/agents/5355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14069#Contes-pour-les-petits-gar-ons
 gutenberg_bookshelf:
 - Children's Literature
 - FR Jeunesse
